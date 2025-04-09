@@ -36,9 +36,12 @@ A dynamic and results-driven professional with **4.7 years of experience** as a 
 
 ## 📂 Highlight Projects
 
-### 📌 [Netflix Recommendation Engine](#)
-- Developed a movie recommender system using SVD in Scikit-learn.
-- Performed EDA, Label Encoding, and Scaling.
+### 🎬 Netflix Recommendation Engine
+Built a personalized recommendation system using **Singular Value Decomposition (SVD)** to suggest movies based on viewing history and genre preferences.  
+🔧 **Tools:** Python, Pandas, Scikit-learn, Surprise Library  
+📊 Focused on collaborative filtering, feature scaling, and evaluation using accuracy metrics.  
+🔗 [View Repository](https://github.com/dhineshsr03/Netflix-Recommendation-Engine)
+
 
 ### 🛒 ML Walmart Sales Forecasting (Time Series)
 Built predictive models including **ARIMA, SARIMA**, and **LSTM** to forecast Walmart sales.  
