@@ -47,7 +47,7 @@ Built a personalized recommendation system using **Singular Value Decomposition 
 
 ### 🛒 ML Walmart Sales Forecasting (Time Series)
 Built predictive models including **ARIMA, SARIMA**, and **LSTM** to forecast Walmart sales.  
-🔧 **Tools:** Python, Statsmodels, TensorFlow, Sklearn  
+🔧 **Tools:** Python, Statsmodels, Sklearn  
 📉 Compared performance using RMSE & MAPE; optimized model hyperparameters for accuracy.  
 🔗 [View Repository](https://github.com/dhineshsr03/ML-Walmart-Project)
   
