@@ -42,6 +42,8 @@ Built a personalized recommendation system using **Singular Value Decomposition 
 📊 Focused on collaborative filtering, feature scaling, and evaluation using accuracy metrics.  
 🔗 [View Repository](https://github.com/dhineshsr03/Netflix-Recommendation-Engine)
 
+---
+
 
 ### 🛒 ML Walmart Sales Forecasting (Time Series)
 Built predictive models including **ARIMA, SARIMA**, and **LSTM** to forecast Walmart sales.  
@@ -49,6 +51,7 @@ Built predictive models including **ARIMA, SARIMA**, and **LSTM** to forecast Wa
 📉 Compared performance using RMSE & MAPE; optimized model hyperparameters for accuracy.  
 🔗 [View Repository](https://github.com/dhineshsr03/ML-Walmart-Project)
   
+---
 
 ### 📊 Bank Marketing Campaign Analysis
 Analyzed a Portuguese bank's marketing dataset to identify key customer conversion drivers for term deposit subscriptions.  
