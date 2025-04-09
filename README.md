@@ -40,17 +40,38 @@ A dynamic and results-driven professional with **4.7 years of experience** as a 
 - Developed a movie recommender system using SVD in Scikit-learn.
 - Performed EDA, Label Encoding, and Scaling.
 
-### 📌 [Walmart Sales Forecasting](#)
-- Forecasted Walmart sales using time series modeling in Scikit-learn.
-- Applied EDA and preprocessing techniques for better model performance.
+### 🛒 ML Walmart Sales Forecasting (Time Series)
+Built predictive models including **ARIMA, SARIMA**, and **LSTM** to forecast Walmart sales.  
+🔧 **Tools:** Python, Statsmodels, TensorFlow, Sklearn  
+📉 Compared performance using RMSE & MAPE; optimized model hyperparameters for accuracy.  
+🔗 [View Repository](https://github.com/dhineshsr03/ML-Walmart-Project)
+  
 
-### 📌 [Power BI Superstore Dashboard](#)
-- Built an interactive dashboard with KPIs, drilldowns, filters, and reports.
-- Analyzed customer segments, product categories, and sales performance.
+### 📊 Bank Marketing Campaign Analysis
+Analyzed a Portuguese bank's marketing dataset to identify key customer conversion drivers for term deposit subscriptions.  
+🔧 **Tools:** Python, Pandas, Matplotlib, Seaborn  
+📈 Focused on EDA, customer behavior segmentation, and actionable insights to optimize campaign strategies.  
+🔗 [View Repository](https://github.com/dhineshsr03/Bank-Marketing-Campaign)
 
-### 📌 [Census Income Prediction](#)
-- Predicted salary levels using Decision Tree and Random Forest (85% accuracy).
-- Included preprocessing like encoding and scaling.
+---
+
+### 🎮 Market Analysis – Games Industry
+Performed market research on the gaming sector using global sales and user ratings.  
+🔧 **Tools:** Python, Jupyter Notebook, Data Visualization  
+📊 Uncovered trends in gaming platforms, popular genres, and regional performance.  
+🔗 [View Repository](https://github.com/dhineshsr03/Games-Market-Analysis)
+
+---
+
+### 🦠 Covid-19 Forecasting using Facebook Prophet
+Developed a forecasting model to predict Covid-19 case trends across countries using Facebook Prophet.  
+🔧 **Tools:** Python, Prophet, Pandas, Plotly  
+📆 Implemented time series decomposition, data preprocessing, and visualizations.  
+🔗 [View Repository](https://github.com/dhineshsr03/Covid-19-Forecasting)
+
+---
+
+
 
 ---
 
