@@ -2,7 +2,7 @@
 
 🎓 **Business Analyst | Data Analyst | BI Analyst**  
 📍 Chennai, India  
-📧 dhineshsr03@gmail.com | 📞 +91 79040 73254  
+📧 dhineshsr03@gmail.com
 🔗 [LinkedIn](http://www.linkedin.com/in/dhinesh-s-r-39a806194) | 🐙 [GitHub](https://github.com/dhineshsr03)
 
 ---
