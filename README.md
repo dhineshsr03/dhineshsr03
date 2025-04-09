@@ -30,7 +30,7 @@ A dynamic and results-driven professional with **4.7 years of experience** as a 
 - **Programming & ML**: Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn), R  
 - **Workflow Automation**: KNIME  
 - **Project Management**: Jira, Git  
-- **AI Tools**: ChatGPT  
+- **AI Tools**: ChatGPT, Perplexity  
 
 ---
 
