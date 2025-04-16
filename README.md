@@ -98,7 +98,7 @@ Developed a forecasting model to predict Covid-19 case trends across countries u
 ---
 
 ## 📜 Certifications
-- 🎓 Executive Post Graduate Certification in Data Analytics – *IIT Roorkee via Intellipaat*  
+- 🎓 Executive Post Graduate Certification in Data Analytics – *by iHub-DivyaSampark in IIT Roorkee*  
 - 📊 Microsoft Power BI Data Analyst – *Pursuing (Exam on May 1, 2025)*
 
 ---
