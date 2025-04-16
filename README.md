@@ -49,7 +49,7 @@ Built a personalized recommendation system using **Singular Value Decomposition 
 Built predictive models including **ARIMA, SARIMA**, and **LSTM** to forecast Walmart sales.  
 🔧 **Tools:** Python, Statsmodels, Sklearn  
 📉 Compared performance using RMSE & MAPE; optimized model hyperparameters for accuracy.  
-🔗 [View Repository](https://github.com/dhineshsr03/ML-Walmart-Project)
+🔗 [View Repository](https://github.com/dhineshsr03/ML-Walmart-Project-Time-Series-Analysis)
   
 ---
 
@@ -57,7 +57,7 @@ Built predictive models including **ARIMA, SARIMA**, and **LSTM** to forecast Wa
 Analyzed a Portuguese bank's marketing dataset to identify key customer conversion drivers for term deposit subscriptions.  
 🔧 **Tools:** Python, Pandas, Matplotlib, Seaborn  
 📈 Focused on EDA, customer behavior segmentation, and actionable insights to optimize campaign strategies.  
-🔗 [View Repository](https://github.com/dhineshsr03/Bank-Marketing-Campaign)
+🔗 [View Repository](https://github.com/dhineshsr03/Bank-Marketing-Campaign-Analysis)
 
 ---
 
@@ -65,7 +65,7 @@ Analyzed a Portuguese bank's marketing dataset to identify key customer conversi
 Performed market research on the gaming sector using global sales and user ratings.  
 🔧 **Tools:** Python, Jupyter Notebook, Data Visualization  
 📊 Uncovered trends in gaming platforms, popular genres, and regional performance.  
-🔗 [View Repository](https://github.com/dhineshsr03/Games-Market-Analysis)
+🔗 [View Repository](https://github.com/dhineshsr03/Market-Analysis-Games-Industry)
 
 ---
 
@@ -73,7 +73,7 @@ Performed market research on the gaming sector using global sales and user ratin
 Developed a forecasting model to predict Covid-19 case trends across countries using Facebook Prophet.  
 🔧 **Tools:** Python, Prophet, Pandas, Plotly  
 📆 Implemented time series decomposition, data preprocessing, and visualizations.  
-🔗 [View Repository](https://github.com/dhineshsr03/Covid-19-Forecasting)
+🔗 [View Repository](https://github.com/dhineshsr03/Covid-19-Forecasting-using-prophet)
 
 ---
 
