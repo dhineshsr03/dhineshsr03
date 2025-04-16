@@ -40,7 +40,7 @@ A dynamic and results-driven professional with **4.7 years of experience** as a 
 Built a personalized recommendation system using **Singular Value Decomposition (SVD)** to suggest movies based on viewing history and genre preferences.  
 🔧 **Tools:** Python, Pandas, Scikit-learn, Surprise Library  
 📊 Focused on collaborative filtering, feature scaling, and evaluation using accuracy metrics.  
-🔗 [View Repository](https://github.com/dhineshsr03/Netflix-Recommendation-Engine)
+🔗 [View Repository]([https://github.com/dhineshsr03/Netflix-Recommendation-Engine](https://github.com/dhineshsr03/ML-Netflix-Recommendation-Engine))
 
 ---
 
