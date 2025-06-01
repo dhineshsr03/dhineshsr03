@@ -9,7 +9,7 @@
 
 ## 💼 Executive Summary
 
-A dynamic and results-driven professional with **4.7 years of experience** as a **Business Analyst** in the IT industry. Proficient in **business communication, user story creation**, and **agile methodologies**, with strong hands-on experience in **Power BI, SQL, Python, Machine Learning, KNIME, and Jira**. Adept at both technical data analysis and stakeholder collaboration, with a keen interest in continuously learning and applying new technologies.
+A dynamic and results-driven professional with **4.8 years of experience** as a **Business Analyst** in the IT industry. Proficient in **business communication, user story creation**, and **agile methodologies**, with strong hands-on experience in **Power BI, SQL, Python, Machine Learning, KNIME, and Jira**. Adept at both technical data analysis and stakeholder collaboration, with a keen interest in continuously learning and applying new technologies.
 
 ---
 
@@ -85,21 +85,38 @@ Developed a forecasting model to predict Covid-19 case trends across countries u
 
 ### 🔹 **Business Analyst** | Integra Software Services  
 *Feb 2023 – Present*  
-- Created 300+ user stories across multiple internal applications.  
-- Coordinated with development and QA teams to groom requirements.  
-- Contributed to projects like LMS, HR Chatbots, and Alt Text Automation tools.
+Projects 1 – Migration to Power BI Dashboard
+●	Replicated company’s web-based dashboard into Power BI dashboards to visualize delivery unit’s performance, analyze root-cause and interpret company’s performance.
+
+Projects 2 – Learning Management System
+●	Mapping client’s requirements, performing system analysis and finalization of functional specifications and high-level design documents for the project.
+●	Created 100+ user stories for Learning management system UI and functionalities.
+
+Projects 3 – Alt Text generation tools
+●	Created around 100+ User Stories for Alt Text generation tools.
+●	Orchestrated the grooming of requirements for internal cross-functional teams, including the development and QA teams. 
+
+Projects 4 – HR Chatbot Application
+●	Collaborated & created use cases, BRD to develop HR chatbot applications.
+
 
 ### 🔹 **Business Analyst** | Tata Consultancy Services  
 *Sep 2020 – Feb 2023*  
-- Managed 7 Epics and 40 Sub-Epics for a Connected Tech mobile app.  
-- Created 600+ user stories and 200+ test cases.  
-- Worked on a cloud migration project for a leading US retailer.
+Project 1 – Connected Tech Mobile Application – TATA MOTORS iRA 2.0
+•	Requirement Gathering: Conducted business communications with multiple line of business owners, gathered requirements and worked as EPIC owner for around 7 EpIcs and 40 Sub-Epics.
+•	User Stories Creation: Created ~600 user stories in JIRA software based on requirements gathered.
+•	Grooming cross-functional team: Groomed the requirements to internal cross-functional teams such as development team and QA team. Also, groomed business teams such as product owners and business owners to get sign off for the designs provided by the UX team.
+
+Project 2 - Mainframe to Cloud Migration of Albertson’s Retailer
+•	Test Cases Creation: Created ~200 test cases based on FRD provided.
+•	Unit Testing: Performed Unit testing for developed screens to identify bugs, measure performance to minimize the bugs before delivering the code to the QA team.
+
 
 ---
 
 ## 📜 Certifications
 - 🎓 Executive Post Graduate Certification in Data Analytics – *by iHub-DivyaSampark in IIT Roorkee*  
-- 📊 Microsoft Power BI Data Analyst – *Pursuing (Exam on May 1, 2025)*
+- 📊 Microsoft Power BI Data Analyst – *Pursuing (Exam on June 8, 2025)*
 
 ---
 
